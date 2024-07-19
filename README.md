@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema debes poner: 
 
-"""install npn react """ 
+""" install npn react """  
